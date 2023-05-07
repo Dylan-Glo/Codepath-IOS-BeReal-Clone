@@ -34,6 +34,10 @@ Here's a walkthrough of implemented user stories:
 
 ![](https://github.com/Dylan-Glo/Codepath-IOS-BeReal-Clone/blob/main/IOS_Project_Be_Real_Clone/berealpt1.gif)
 
+Here's a resubmission of missed implemented user stories:
+
+![](https://github.com/Dylan-Glo/Codepath-IOS-BeReal-Clone/blob/main/IOS_Project_Be_Real_Clone/berealpt5resubmission.gif)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/)  
 <!-- Recommended tools:
@@ -90,6 +94,10 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ![](https://github.com/Dylan-Glo/Codepath-IOS-BeReal-Clone/blob/main/IOS_Project_Be_Real_Clone/berealpt2.gif)
+
+Here's a resubmission of missed implemented user stories:
+
+![](https://github.com/Dylan-Glo/Codepath-IOS-BeReal-Clone/blob/main/IOS_Project_Be_Real_Clone/berealpt6resubmission.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/)  
